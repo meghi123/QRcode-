@@ -1,0 +1,8 @@
+.harini{
+    font-size: 30px;
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+    gap:200px;
+}
+
